@@ -1,2 +1,14 @@
-# ko-webserver-demo
-A koa-based web server demo
+# koa-demo
+a node server demo
+
+### Getting Started
+
+```bash
+
+# install package
+npm install
+
+# run
+npm start
+
+```
